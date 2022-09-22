@@ -15,3 +15,5 @@ Imports:
 LinkingTo: 
     Rcpp,
     RInside
+URL: https://github.com/mdsumner/rins
+BugReports: https://github.com/mdsumner/rins/issues
